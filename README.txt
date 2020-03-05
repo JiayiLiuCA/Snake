@@ -1,4 +1,6 @@
-Overall Design:
+###Snake###
+
+Overall Design: 
 	Game starts with a splash screen. Press P to start.
 	The game logic runs when the cursor is within the range of the window.
 	Using WASD to control movement of the snake.
